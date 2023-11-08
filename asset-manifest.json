@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DAMapSample/static/css/main.323d7611.css",
+    "main.js": "/DAMapSample/static/js/main.2c76b04a.js",
+    "static/js/787.68e58db6.chunk.js": "/DAMapSample/static/js/787.68e58db6.chunk.js",
+    "index.html": "/DAMapSample/index.html",
+    "main.323d7611.css.map": "/DAMapSample/static/css/main.323d7611.css.map",
+    "main.2c76b04a.js.map": "/DAMapSample/static/js/main.2c76b04a.js.map",
+    "787.68e58db6.chunk.js.map": "/DAMapSample/static/js/787.68e58db6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323d7611.css",
+    "static/js/main.2c76b04a.js"
+  ]
+}
